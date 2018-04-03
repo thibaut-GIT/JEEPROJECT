@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Cours\B3\J2EE\MyEpsi\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1011192597.index
+1939008263.index
+826166837.index
+1911135634.index
+315580244.index
+2233819016.index
+2555557432.index

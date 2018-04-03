@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<FORM ACTION="ConnectServlet" METHOD="POST">
+<INPUT TYPE="TEXT" NAME="LOGIN">
+<INPUT TYPE="PASSWORD" NAME="PASSWORD">
+<INPUT TYPE="SUBMIT" VALUE="CONNECT">
+</FORM>
+
+</body>
+</html>
